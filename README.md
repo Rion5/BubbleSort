@@ -1,2 +1,5 @@
 # bubbleSort
-A simple bubble sort example in different programming languages
+Bubble Sort Examples in Different Programming Languages
+
+1) Python
+2) Java
